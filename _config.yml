@@ -66,12 +66,18 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Tomzyx0315"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:2400011441@stu.pku.edu.cn"
 
 footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Tomzyx0315"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:2400011441@stu.pku.edu.cn"
 
 defaults:
   # _posts
