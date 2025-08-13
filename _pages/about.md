@@ -13,7 +13,6 @@ My hobbies are diverse but not particularly deep in any. I’ve dabbled in photo
 and recently started learning the violin. I’ve always been an avid reader and a movie, manga, anime enthusiast.  
 And trust me, my profile picture is almost a spitting image of me (before I decided to grow my hair long).
 
-Feel free to contact me via [GitHub](https://github.com/Tomzyx0315) or  
-[Email](mailto:2400011441@stu.pku.edu.cn)!
+Feel free to contact me via [GitHub](https://github.com/Tomzyx0315) or [Email](mailto:2400011441@stu.pku.edu.cn)!
 
 You can also download my [CV here](/assets/cv.pdf).
