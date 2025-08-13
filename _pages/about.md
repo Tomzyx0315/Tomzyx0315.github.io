@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "About this website"
+title: "About me"
 ---
 
 Hi! I'm **Zhang Yuxuan** (章宇轩), an undergraduate student currently studying at  
