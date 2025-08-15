@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Yuxuan Zhang"
   avatar : "/assets/images/bio-photo3.jpg"
-  bio    : "School of Physics, Peking University"
+  bio    : "Life is a random walk"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
